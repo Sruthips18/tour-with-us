@@ -1,10 +1,40 @@
 /* navbar */
-
 .navbar{
-    background-color: #3b6865;
+    background-color: #6998AB;
     padding-left: 30px;
 }
 .navbar-nav{
-    padding-left:500px;
+    padding-left:50%;
+}
+#home{
+    background-color:#6998AB;
+    height: 100vh;
+}
+.intro-text{
+    font-family: "Source Serif Pro", serif;
+    margin-top: 10%;
+    margin-left: 15%;
 
+}
+.intro-text span{
+    font-size: 75px;
+}
+.form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 15%;
+}
+.form select{
+    border: 2px solid rgb(220, 216, 216);
+    border-radius: 5px;
+}
+.Search-btn{
+    background-color: #1A374D;
+    border-color: #1A374D;
+    width: 70%;
+}
+.hero-img{
+    width: 80%;
+    margin-right: 30%;
 }
