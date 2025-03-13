@@ -8,7 +8,7 @@
 }
 #home{
     background-color:#6998AB;
-    height: 100vh;
+    height: 120vh;
 }
 .intro-text{
     font-family: "Source Serif Pro", serif;
@@ -21,7 +21,7 @@
 }
 .form{
     background-color: white;
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
     margin-left: 15%;
 }
@@ -32,9 +32,9 @@
 .Search-btn{
     background-color: #1A374D;
     border-color: #1A374D;
-    width: 70%;
+    width: 60%;
 }
 .hero-img{
     width: 80%;
-    margin-right: 30%;
+    margin-right: 80;
 }
